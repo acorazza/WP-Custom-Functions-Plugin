@@ -4,10 +4,10 @@ A simple plugin to add custom functions to WordPress.
 
 This example includes my Google Analytics tracking code.
 
-## But why?
+## Why?
 
 It's better to use a plugin rather than a theme's `functions.php`. Theme files get updated with new versions.
 
-## But Child Themes?
+## What about Child Themes?
 
 This is simpler than using a child theme if you don't need custom CSS.
