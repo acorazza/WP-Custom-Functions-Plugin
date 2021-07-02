@@ -10,4 +10,4 @@ It's better to use a plugin rather than a theme's `functions.php`. Theme files g
 
 ## Why not use a Child Theme?
 
-A custom plugin is simpler than using a child theme if you don't need custom CSS.
+A custom plugin is simpler than using a child theme if you don't need custom CSS — plus, you can use this plugin with any installed theme.
