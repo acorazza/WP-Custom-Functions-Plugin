@@ -6,8 +6,8 @@ This example includes my Google Analytics tracking code.
 
 ## Why?
 
-It's better to use a plugin rather than a theme's `functions.php`. Theme files get updated with new versions.
+It's better to use a plugin rather than a theme's `functions.php`. Theme files get overwritten with new versions when installing updates.
 
 ## What about Child Themes?
 
-This is simpler than using a child theme if you don't need custom CSS.
+A custom plugin is simpler than using a child theme if you don't need custom CSS.
