@@ -1,9 +1,5 @@
 # WP Custom Functions Plugin
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 A simple plugin to add custom functions to WordPress. This example includes a Google Analytics tracking tag.
 
 ## Why would I use this?
