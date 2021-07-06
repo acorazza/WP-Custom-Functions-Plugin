@@ -7,13 +7,13 @@
 * Version: 1.0
 */
 
-/* GA */
+// 🔍🔍🔍 Google Analytics Tracking Code
 
 add_action( 'wp_head', 'ps_google_analytics' );
 
 function ps_google_analytics() { ?>
       <!-- Global site tag (gtag.js) - Google Analytics -->
-            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26515983-1"></script>
+            <script async src=""></script>
             <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
